@@ -17,7 +17,7 @@ class Operaciones:
 
 
 class Main:
-    #Se hace dentro del metodo init para que prueba_escritorio sea un atributo de instancia y no de la clase Main.
+    #Se hace dentro del metodo init para que prueba_escritorio sea una variable local.
     def __init__(self):                                                             
         prueba_escritorio = Operaciones()
 
