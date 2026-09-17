@@ -45,6 +45,7 @@ El repositorio contiene la solución de los siguientes ejercicios:
 
 ## Estructura del repositorio
 
+```text
 POO-Actividad-1-2026-2/
 ├── ejercicio_04
 ├── ejercicio_05
