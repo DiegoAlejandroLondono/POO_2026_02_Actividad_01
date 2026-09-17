@@ -1,7 +1,9 @@
 #A diferencia del ejemplo. Decidí almacenar las edades en atributos de instancias en lugar de variables globales. Para eso, debo inicializar una instancia de la clase edades.
 
 class Edades:
-    def __init__(self, edad_Juan):                                      #Con __init__ puedo pasar un argumento a la clase y guardarlo en un atributo de instancia
+
+    #Con __init__ puedo pasar un argumento a la clase y guardarlo en un atributo de instancia
+    def __init__(self, edad_Juan):                                      
         self.edad_juan = edad_Juan
 
     # Debo pasar self como argumento para poder acceder a los atributos de instancia
