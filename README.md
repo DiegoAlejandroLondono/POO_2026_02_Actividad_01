@@ -7,6 +7,7 @@ Repositorio correspondiente a la **Actividad 1** del curso de **Programación Or
 - **Universidad:** Universidad Nacional de Colombia
 - **Asignatura:** Programación Orientada a Objetos
 - **Actividad:** Actividad 1
+- **Lenguaje:** Python
 - **Estudiante:** Diego Alejandro Londoño Zapata
 - **Docente:** Walter Hugo Arboleda Mazo
 - **Periodo académico:** 2026-2S
@@ -47,9 +48,9 @@ El repositorio contiene la solución de los siguientes ejercicios:
 
 ```text
 POO-Actividad-1-2026-2/
-├── ejercicio_04
-├── ejercicio_05
-├── ejercicio_12
-├── ejercicio_14
-├── ejercicio_17
+├── ejercicio_04.py
+├── ejercicio_05.py
+├── ejercicio_12.py
+├── ejercicio_14.py
+├── ejercicio_17.py
 └── README.md
